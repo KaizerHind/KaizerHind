@@ -1,3 +1,4 @@
+
 # 📑 About me
 ### - *Junior and Semi Senior Developer.*
 ### - Small developer in programming SA:MP
@@ -5,6 +6,7 @@
 https://img.icons8.com/cute-clipart/32/discord-new-logo.png
 ## 🌐 Social networks:
 ![enter image description here](https://img.icons8.com/cute-clipart/32/discord-new-logo.png) [**Kaizerhind#5803**](https://discord.com/)
+######
 ![enter image description here](https://img.icons8.com/color/32/gmail--v2.png) **[zaikmodding@gmail.com](mailto:zaikmodding@gmail.com)**
 
 # 📊 GitHub Stats:
