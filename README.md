@@ -3,7 +3,10 @@
 ### - *Junior and Semi Senior Developer.*
 ### - Small developer in programming SA:MP
 ### - Front End Developer. (HTML5, CSS, JS, CSharp, VB)
-https://img.icons8.com/cute-clipart/32/discord-new-logo.png
+### - Graphic and 3D designer.
+
+### Hobbies: Anime, Video Games, Music, Eat, Go out from time to time, I make fun of people who think they are superior.
+
 ## 🌐 Social networks:
 ![enter image description here](https://img.icons8.com/ultraviolet/32/discord-logo.png) [**Kaizerhind#5803**](https://discord.com/)
 ######
