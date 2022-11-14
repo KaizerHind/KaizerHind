@@ -8,7 +8,7 @@ https://img.icons8.com/cute-clipart/32/discord-new-logo.png
 ![enter image description here](https://img.icons8.com/ultraviolet/32/discord-logo.png) [**Kaizerhind#5803**](https://discord.com/)
 ######
 ![enter image description here](https://img.icons8.com/color/32/gmail--v2.png) **[zaikmodding@gmail.com](mailto:zaikmodding@gmail.com)**
-
+##
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KaizerHind&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
